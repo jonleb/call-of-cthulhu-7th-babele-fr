@@ -1,0 +1,37 @@
+{
+  "name": "call-of-cthulhu-7th-babele-it",
+  "title": "Call of Cthulhu 7th Babele Italian",
+  "description": "Traducción de la implementación de Call of Cthulhu 7th de HavlockV/CoC7-FoundryVTT al español mediante babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) spanish translation using Babele",
+  "version": "0.54.1",
+  "minimumCoreVersion" : "0.7.0",
+  "compatibleCoreVersion":"0.7.9",
+  "author": "@AllNewLaureato#5656",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.20"
+    },
+    {
+      "name": "CoC7",
+      "type": "system",
+      "version": "0.5.4"
+    }
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "lang/it.json"
+    }
+  ],
+  "system": "CoC7",
+  "systemVersion": "0.5.4",
+  "url": "https://github.com/AnthonyLWolf/call-of-cthulhu-7th-babele-it",
+  "manifest": "https://raw.githubusercontent.com/AnthonyLWolf/call-of-cthulhu-7th-babele-it/master/module.json",
+  "download": "https://github.com/AnthonyLWolf/call-of-cthulhu-7th-babele-it/archive/master.zip"
+}
