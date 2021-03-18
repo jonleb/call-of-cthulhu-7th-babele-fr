@@ -1,26 +1,30 @@
 {
-	"label": "Personajes de ejemplo",
+	"label": "Examples",
 	"entries": [
 		{
 			"id": "1920 Character",
-			"name": "Personaje 1920",
+			"name": "1920 Character",
 			"items": [
 				{
 					"_id": "E3y6HmUAZGyAv5zM",
-					"flags": {},
-					"name": "Contabilidad",
+					"name": "Accounting",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "5",
-						"value": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -39,24 +43,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 100000
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "XhHYF5tSQj8n7nIt",
-					"flags": {},
-					"name": "Antropología",
+					"name": "Anthropology",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "1",
-						"value": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -75,24 +86,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 200000
+					"sort": 200000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "VDsiVSMGcoUXCxdw",
-					"flags": {},
-					"name": "Tasación",
+					"name": "Appraise",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "5",
-						"value": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -111,24 +129,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 300000
+					"sort": 300000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "lDsTVk3C1CALLJV9",
-					"flags": {},
-					"name": "Encanto",
+					"name": "Charm",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "15",
-						"value": "15",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -147,24 +172,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 400000
+					"sort": 400000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "k4q7dNE6yyaWvg6t",
-					"flags": {},
-					"name": "Crédito",
+					"name": "Credit Rating",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "0",
-						"value": "0",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -184,24 +216,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 500000
+					"sort": 500000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "U82PaYvshoVvFLTt",
-					"flags": {},
-					"name": "Mitos de Cthulhu",
+					"name": "Cthulhu Mythos",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "0",
-						"value": "0",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -221,24 +260,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 600000
+					"sort": 600000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "J0lo87g53txd5SLS",
-					"flags": {},
-					"name": "Disfrazarse",
+					"name": "Disguise",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "5",
-						"value": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -257,24 +303,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 700000
+					"sort": 700000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "84CUVd7oXCBoDRh7",
-					"flags": {},
-					"name": "Esquivar",
+					"name": "Dodge",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "1/2 @DEX",
-						"value": "@DEX/2",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -293,24 +346,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 800000
+					"sort": 800000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "bHgRyyed99nleqcG",
-					"flags": {},
-					"name": "Conducir automóvil",
+					"name": "Drive Auto",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "20",
-						"value": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -329,24 +389,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 900000
+					"sort": 900000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "lYpc5wP0ocjfX38X",
-					"flags": {},
-					"name": "Electricidad",
+					"name": "Electrical Repair",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "10",
-						"value": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -365,24 +432,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 1000000
+					"sort": 1000000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "rDU26YAzBpBMQP27",
-					"flags": {},
-					"name": "Charlatanería",
+					"name": "Fast Talk",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "5",
-						"value": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -401,24 +475,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 1100000
+					"sort": 1100000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "kjaEOLz2p8ZrEowW",
-					"flags": {},
-					"name": "Pelea",
+					"name": "Brawl",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Combatir",
+						"specialization": "Fighting",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "25",
-						"value": "25",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": true,
@@ -439,24 +520,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 1200000
+					"sort": 1200000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "O6xeAxF7aEY8zHdm",
-					"flags": {},
-					"name": "Arma corta",
+					"name": "Handgun",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Armas de fuego",
+						"specialization": "Firearms",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "20",
-						"value": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": true,
@@ -477,24 +565,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 1300000
+					"sort": 1300000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "MaFf4EBxPNbDiFoZ",
-					"flags": {},
-					"name": "Escopeta",
+					"name": "Shotgun",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Armas de fuego",
+						"specialization": "Firearms",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "25",
-						"value": "25",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": true,
@@ -515,24 +610,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 1400000
+					"sort": 1400000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "ZI31AYDfuXNjE6W9",
-					"flags": {},
-					"name": "Primeros auxilios",
+					"name": "First Aid",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "30",
-						"value": "30",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -551,24 +653,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 1500000
+					"sort": 1500000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "2LmfyHywLRLjfYZK",
-					"flags": {},
-					"name": "Historia",
+					"name": "History",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "5",
-						"value": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -587,24 +696,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 1600000
+					"sort": 1600000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "pW0uDSp9w8CFCPLN",
-					"flags": {},
-					"name": "Intimidar",
+					"name": "Intimidate",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "15",
-						"value": "15",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -623,24 +739,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 1700000
+					"sort": 1700000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "1WVyK6rnfd5LiwZF",
-					"flags": {},
-					"name": "Saltar",
+					"name": "Jump",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "20",
-						"value": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -659,24 +782,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 1800000
+					"sort": 1800000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "eYqdGfBBKGBihakf",
-					"flags": {},
-					"name": "Lengua propia",
+					"name": "Language (Own)",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p><span style=\"color: #191813; font-size: 13px;\">Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</span></p>",
+							"value": "<p><span style=\"color: #191813; font-size: 13px;\">See the Call of Cthulhu - 7th Ed Core Rulebook</span></p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "@EDU",
-						"value": "@EDU",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -695,24 +825,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 1900000
+					"sort": 1900000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "IwRD21t2beB16frp",
-					"flags": {},
-					"name": "Derecho",
+					"name": "Law",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "5",
-						"value": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -731,24 +868,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 2000000
+					"sort": 2000000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "m6cYXpQe1bY13JD8",
-					"flags": {},
-					"name": "Buscar libros",
+					"name": "Library Use",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "20",
-						"value": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -767,24 +911,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 2100000
+					"sort": 2100000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "RW3uFJY5WH9lg49Z",
-					"flags": {},
-					"name": "Trepar",
+					"name": "Climb",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "20",
-						"value": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -803,24 +954,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 2200000
+					"sort": 2200000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "AHG7Inw3sZTY6qWV",
-					"flags": {},
-					"name": "Escuchar",
+					"name": "Listen",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "20",
-						"value": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -839,24 +997,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 2300000
+					"sort": 2300000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "3Jysn2i3cSgykZHp",
-					"flags": {},
-					"name": "Cerrajería",
+					"name": "Locksmith",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "1",
-						"value": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -875,24 +1040,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 2400000
+					"sort": 2400000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "IbwXpzOw7IyzPqmI",
-					"flags": {},
-					"name": "Mecánica",
+					"name": "Mechanical Repair",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "10",
-						"value": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -911,24 +1083,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 2500000
+					"sort": 2500000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "Mmy1vrySUmlMq8Wu",
-					"flags": {},
-					"name": "Medicina",
+					"name": "Medicine",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "1",
-						"value": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -947,24 +1126,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 2600000
+					"sort": 2600000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "PhzNWFslePSOjMeE",
-					"flags": {},
-					"name": "Naturaleza",
+					"name": "Natural World",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "10",
-						"value": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -983,24 +1169,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 2700000
+					"sort": 2700000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "kzdAswgR5VFrc8wH",
-					"flags": {},
-					"name": "Orientarse",
+					"name": "Navigate",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "10",
-						"value": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -1019,24 +1212,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 2800000
+					"sort": 2800000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "8Vz3jYVrRH4z6kZR",
-					"flags": {},
-					"name": "Ciencias ocultas",
+					"name": "Occult",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "5",
-						"value": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -1055,24 +1255,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 2900000
+					"sort": 2900000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "WPppQWg72tJf8Ufs",
-					"flags": {},
-					"name": "Conducir maquinaria",
+					"name": "Operate Heavy Machinery",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "1",
-						"value": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -1091,24 +1298,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 3000000
+					"sort": 3000000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "v2mCLTJ5uV9xcZtU",
-					"flags": {},
-					"name": "Persuasión",
+					"name": "Persuade",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "10",
-						"value": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -1127,24 +1341,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 3100000
+					"sort": 3100000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "OFaRTxDfNzPqnWPE",
-					"flags": {},
-					"name": "Pilotar",
+					"name": "Any",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Pilotar",
+						"specialization": "Pilot",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "1",
-						"value": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -1163,24 +1384,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 3200000
+					"sort": 3200000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "3RIMHZyf9dI5HIOF",
-					"flags": {},
-					"name": "Psicoanálisis",
+					"name": "Psychoanalysis",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "1",
-						"value": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -1199,24 +1427,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 3300000
+					"sort": 3300000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "IChZCFGH2cJeQmmw",
-					"flags": {},
-					"name": "Psicología",
+					"name": "Psychology",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "10",
-						"value": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -1235,24 +1470,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 3400000
+					"sort": 3400000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "EEEND8YZ91rtVW48",
-					"flags": {},
-					"name": "Equitación",
+					"name": "Ride",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "5",
-						"value": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -1271,24 +1513,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 3500000
+					"sort": 3500000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "XE0HsG49O1CPI9r1",
-					"flags": {},
-					"name": "Juego de manos",
+					"name": "Sleight of Hand",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "10",
-						"value": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -1307,24 +1556,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 3600000
+					"sort": 3600000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "jEaOE3HSP6EGGfUO",
-					"flags": {},
-					"name": "Descubrir",
+					"name": "Spot Hidden",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "25",
-						"value": "25",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -1343,24 +1599,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 3700000
+					"sort": 3700000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "3mLypx5XOhaE0kDB",
-					"flags": {},
-					"name": "Supervivencia",
+					"name": "Any",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Supervivencia",
+						"specialization": "Survival",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "10",
-						"value": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": true,
@@ -1379,24 +1642,31 @@
 						},
 						"flags": {}
 					},
-					"sort": 3800000
+					"sort": 3800000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "5jLflB6Ez9h2ILPA",
-					"flags": {},
-					"name": "Sigilo",
+					"name": "Stealth",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
-							"value": "<p>Consulte el Manual del Guardián de La llamada de Cthulhu, 7a Edición</p>",
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
 							"pushedFaillureConsequences": "",
 							"chat": ""
 						},
 						"base": "20",
-						"value": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -1407,16 +1677,17 @@
 						"eras": {},
 						"flags": {}
 					},
-					"sort": 3900000
+					"sort": 3900000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "2Wrbf4c9TNiW5DYu",
-					"flags": {},
-					"name": "Lanzar",
+					"name": "Throw",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Combatir",
+						"specialization": "Fighting",
 						"description": {
 							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
@@ -1424,7 +1695,13 @@
 							"chat": ""
 						},
 						"base": "20",
-						"value": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": true,
@@ -1445,14 +1722,15 @@
 						},
 						"flags": {}
 					},
-					"sort": 4000000
+					"sort": 4000000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "laKcJWNqaQQa8tHg",
-					"flags": {},
-					"name": "Arqueología",
+					"name": "Archaeology",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -1462,7 +1740,13 @@
 							"chat": ""
 						},
 						"base": "1",
-						"value": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"special": false,
@@ -1481,14 +1765,15 @@
 						},
 						"flags": {}
 					},
-					"sort": 4100000
+					"sort": 4100000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "IeaxvTs5r5KQxSvQ",
-					"flags": {},
-					"name": "Nadar",
+					"name": "Swim",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -1498,7 +1783,13 @@
 							"chat": ""
 						},
 						"base": "20",
-						"value": "20",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
 						"attributes": {},
 						"properties": {
 							"push": true,
@@ -1517,50 +1808,15 @@
 						},
 						"flags": {}
 					},
-					"sort": 4200000
-				},
-				{
-					"_id": "Pc4UhjTHvcdX53bF",
+					"sort": 4200000,
 					"flags": {},
-					"name": "Seguir rastros",
-					"type": "skill",
 					"img": "icons/svg/mystery-man.svg",
-					"data": {
-						"specialization": "",
-						"description": {
-							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
-							"opposingDifficulty": "",
-							"pushedFaillureConsequences": "",
-							"chat": ""
-						},
-						"base": "10",
-						"value": "10",
-						"attributes": {},
-						"properties": {
-							"special": false,
-							"rarity": false,
-							"push": true,
-							"combat": false
-						},
-						"eras": {
-							"1920": true,
-							"nvct": false,
-							"drka": false,
-							"ddts": false,
-							"glit": false,
-							"pulp": false,
-							"mdrn": true
-						},
-						"flags": {}
-					},
-					"sort": 4300000
+					"effects": []
 				},
 				{
 					"_id": "i1VYLHBcWrIUd57K",
-					"flags": {},
-					"name": "Puños",
+					"name": "Fists",
 					"type": "weapon",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
 							"value": "",
@@ -1597,10 +1853,13 @@
 						},
 						"usesPerRound": {
 							"normal": "",
-							"max": ""
+							"max": "",
+							"burst": null
 						},
 						"bullets": "",
+						"ammo": 0,
 						"malfunction": "",
+						"blastRadius": null,
 						"properties": {
 							"rngd": false,
 							"impl": false,
@@ -1636,20 +1895,179 @@
 							"mdrn": 0
 						}
 					},
-					"sort": 4400000
+					"sort": 4400000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
+				},
+				{
+					"_id": "jR4Qq2clAIB5kSIn",
+					"name": "Any",
+					"type": "skill",
+					"data": {
+						"specialization": "Art/Craft",
+						"description": {
+							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "5",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"push": true,
+							"special": true,
+							"rarity": false,
+							"combat": false
+						},
+						"eras": {
+							"1920": true,
+							"nvct": false,
+							"drka": false,
+							"ddts": false,
+							"glit": false,
+							"pulp": false,
+							"mdrn": true
+						},
+						"flags": {}
+					},
+					"sort": 4500000,
+					"flags": {
+						"core": {
+							"sourceId": "Compendium.CoC7.skills.iV3SdrNKsGB5BSli"
+						}
+					},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
+				},
+				{
+					"_id": "wj7Dm3wKkoU2ox16",
+					"name": "Any",
+					"type": "skill",
+					"data": {
+						"specialization": "Language",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"push": true
+						},
+						"eras": {},
+						"flags": {}
+					},
+					"sort": 4600000,
+					"flags": {
+						"core": {
+							"sourceId": "Compendium.CoC7.skills.tZ75GTRGUNa7Ofj4"
+						}
+					},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
+				},
+				{
+					"_id": "mVvcxcuAj4siP5Fl",
+					"name": "Any",
+					"type": "skill",
+					"data": {
+						"specialization": "Science",
+						"description": {
+							"value": "<p><span style=\"color: #191813; font-size: 13px;\">See the Call of Cthulhu - 7th Ed Core Rulebook</span></p>",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "1",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"push": true
+						},
+						"eras": {},
+						"flags": {}
+					},
+					"sort": 4700000,
+					"flags": {
+						"core": {
+							"sourceId": "Compendium.CoC7.skills.g9Q95Ei79qs3XZAz"
+						}
+					},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
+				},
+				{
+					"_id": "1sx4ciqtI5dOWbrC",
+					"name": "Any",
+					"type": "skill",
+					"data": {
+						"specialization": "Track",
+						"description": {
+							"value": "",
+							"opposingDifficulty": "",
+							"pushedFaillureConsequences": "",
+							"chat": ""
+						},
+						"base": "10",
+						"adjustments": {
+							"personal": null,
+							"occupation": null,
+							"archetype": null,
+							"experience": null
+						},
+						"value": null,
+						"attributes": {},
+						"properties": {
+							"special": true,
+							"push": true
+						},
+						"eras": {},
+						"flags": {}
+					},
+					"sort": 4800000,
+					"flags": {
+						"core": {
+							"sourceId": "Compendium.CoC7.skills.4TTVJmCu9mP5kFrx"
+						}
+					},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				}
 			]
 		},
 		{
 			"id": "Creature example",
-			"name": "Criatura de ejemplo",
+			"name": "Creature example",
 			"items": [
 				{
 					"_id": "dLLdlRaQmkE9QYUJ",
-					"flags": {},
-					"name": "Trocear PJs en pequeños cachitos",
+					"name": "Slice PCs in small cubes",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -1671,24 +2089,25 @@
 						"eras": {},
 						"flags": {}
 					},
-					"sort": 100000
+					"sort": 100000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "H30y50QJUdx9Xjii",
-					"flags": {},
-					"name": "Garras mortales",
+					"name": "Deadly claws",
 					"type": "weapon",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
-							"value": "<p>Descripción del arma</p>\n<p>si seleccionas un 'Área de efecto' se habilitarán 3 daños y alcances distintos</p>\n<p>si seleccionas 'Full-auto' solo se permitirá elegir 2 habilidades diferentes para el arma</p>\n<p>si seleccionas 'Especial' se activará un campo manual especial</p>\n<p>En la pestaña de combate si los iconos tienen un fondo rojo significa que no se ha seleccionado ninguna habilidad para el arma</p>\n<p>Edita el arma y selecciona la habilidad correcta.</p>",
+							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
 							"chat": "",
-							"special": "<p>Aquí puedes añadir instrucciones o una descripción detallada :</p>\n<p>Indicación 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
+							"special": "<p>You can add special description or slugs there :</p>\n<p>Slug 1 : <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d17kh\" title=\"2d17kh\"><i class=\"fas fa-dice-d20\"></i> 2d17kh</a></p>"
 						},
 						"wpnType": "",
 						"skill": {
 							"main": {
-								"name": "Seleccionar una vez que tengas el arma",
+								"name": "To be selected once the weapon is owned",
 								"id": "dLLdlRaQmkE9QYUJ"
 							},
 							"alternativ": {
@@ -1749,30 +2168,32 @@
 							"mdrn": "6$"
 						}
 					},
-					"sort": 100001
+					"sort": 100001,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "i6nvPoQNE6CTSz5C",
-					"flags": {},
 					"name": "Pile of junk",
 					"type": "item",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": "",
 						"quantity": 1,
 						"weight": 0,
 						"attributes": {}
 					},
-					"sort": 200001
+					"sort": 200001,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "blVIcQR6OUZ4LeqG",
-					"flags": {},
-					"name": "Combatir",
+					"name": "Fighting",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Combatir",
+						"specialization": "Fighting",
 						"description": {
 							"value": "",
 							"opposingDifficulty": "",
@@ -1790,24 +2211,25 @@
 						"eras": {},
 						"flags": {}
 					},
-					"sort": 300001
+					"sort": 300001,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "izZoClJXLwUpoiy7",
-					"flags": {},
-					"name": "Armas naturales",
+					"name": "Innate attack",
 					"type": "weapon",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
-							"value": "Arma natural de la criatura",
-							"chat": "Arma natural de la criatura",
+							"value": "Creature's natural attack",
+							"chat": "Creature's natural attack",
 							"special": ""
 						},
 						"wpnType": "innate",
 						"skill": {
 							"main": {
-								"name": "Combatir",
+								"name": "Fighting",
 								"id": "blVIcQR6OUZ4LeqG"
 							},
 							"alternativ": {
@@ -1845,20 +2267,21 @@
 						"eras": {},
 						"price": {}
 					},
-					"sort": 400001
+					"sort": 400001,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				}
 			]
 		},
 		{
 			"id": "Goon",
-			"name": "Esbirro",
+			"name": "Goon",
 			"items": [
 				{
 					"_id": "MLzJUjOk8pGvbark",
-					"flags": {},
-					"name": "Entrar en pánico",
+					"name": "Be a pain",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -1880,14 +2303,15 @@
 						"eras": {},
 						"flags": {}
 					},
-					"sort": 400000
+					"sort": 400000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "vahGLRAWBleHGipn",
-					"flags": {},
-					"name": "Intentarlo con todo su empeño",
+					"name": "Try hard",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -1909,42 +2333,45 @@
 						"eras": {},
 						"flags": {}
 					},
-					"sort": 600000
+					"sort": 600000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "MzS8tNzfklkMETxe",
-					"flags": {},
-					"name": "Mandar",
+					"name": "Orders",
 					"type": "item",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": "",
 						"quantity": 1,
 						"weight": 0,
 						"attributes": {}
 					},
-					"sort": 700000
+					"sort": 700000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "55AtqIMUTt5uER3Z",
-					"flags": {},
-					"name": "Documentos secretos",
+					"name": "Secret documents",
 					"type": "item",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": "",
 						"quantity": 1,
 						"weight": 0,
 						"attributes": {}
 					},
-					"sort": 800000
+					"sort": 800000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "bP89oaMSNTuMQdt5",
-					"flags": {},
-					"name": "Puñetazo",
+					"name": "Punch",
 					"type": "weapon",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
 							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
@@ -1954,7 +2381,7 @@
 						"wpnType": "",
 						"skill": {
 							"main": {
-								"name": "Pelea",
+								"name": "Brawl",
 								"id": "EUUoTqgF104Htwp5"
 							},
 							"alternativ": {
@@ -2015,16 +2442,17 @@
 							"mdrn": "6$"
 						}
 					},
-					"sort": 100001
+					"sort": 100001,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "GpHiBjo9O4FrPzdl",
-					"flags": {},
-					"name": "Escopeta",
+					"name": "Shotgun",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Armas de fuego",
+						"specialization": "Firearms",
 						"description": {
 							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
@@ -2053,14 +2481,15 @@
 						},
 						"flags": {}
 					},
-					"sort": 6400000
+					"sort": 6400000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "DqmtcxhedeGwNdPb",
-					"flags": {},
-					"name": "Esquivar",
+					"name": "Dodge",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -2089,16 +2518,17 @@
 						},
 						"flags": {}
 					},
-					"sort": 2200000
+					"sort": 2200000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "EUUoTqgF104Htwp5",
-					"flags": {},
-					"name": "Pelea",
+					"name": "Brawl",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Combatir",
+						"specialization": "Fighting",
 						"description": {
 							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
@@ -2127,14 +2557,15 @@
 						},
 						"flags": {}
 					},
-					"sort": 1100000
+					"sort": 1100000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "odgm7NgwjcrVBoRZ",
-					"flags": {},
-					"name": "Lengua propia",
+					"name": "Language (Own)",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -2163,14 +2594,15 @@
 						},
 						"flags": {}
 					},
-					"sort": 4000000
+					"sort": 4000000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "Cgn0EMY6vNZ9iVHW",
-					"flags": {},
-					"name": "Cumplir órdenes",
+					"name": "Receive orders",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -2192,14 +2624,15 @@
 						"eras": {},
 						"flags": {}
 					},
-					"sort": 6500000
+					"sort": 6500000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "SZhoTtcwS9wOPXBU",
-					"flags": {},
-					"name": "Escopeta",
+					"name": "Shotgun",
 					"type": "weapon",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
 							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
@@ -2270,14 +2703,15 @@
 							"mdrn": "6$"
 						}
 					},
-					"sort": 100001
+					"sort": 100001,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "yfEPFv1QVtPS8pJQ",
-					"flags": {},
-					"name": "Porra",
+					"name": "Club",
 					"type": "weapon",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
 							"value": "",
@@ -2353,20 +2787,21 @@
 							"mdrn": 0
 						}
 					},
-					"sort": 6600000
+					"sort": 6600000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				}
 			]
 		},
 		{
 			"id": "Vilain example",
-			"name": "Villano de ejemplo",
+			"name": "Vilain example",
 			"items": [
 				{
 					"_id": "MLzJUjOk8pGvbark",
-					"flags": {},
-					"name": "Entrar en pánico",
+					"name": "Be a pain",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -2388,14 +2823,15 @@
 						"eras": {},
 						"flags": {}
 					},
-					"sort": 400000
+					"sort": 400000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "MUMDYUZ4xaEPfwin",
-					"flags": {},
-					"name": "Conquistar el mundo",
+					"name": "Takeover the world",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -2417,14 +2853,15 @@
 						"eras": {},
 						"flags": {}
 					},
-					"sort": 500000
+					"sort": 500000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "vahGLRAWBleHGipn",
-					"flags": {},
-					"name": "Atormentar a los PJs",
+					"name": "Torment the PC",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -2446,42 +2883,45 @@
 						"eras": {},
 						"flags": {}
 					},
-					"sort": 600000
+					"sort": 600000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "MzS8tNzfklkMETxe",
-					"flags": {},
-					"name": "Planear cómo esclavizar a la humanidad",
+					"name": "Plan to enslave humanity",
 					"type": "item",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": "",
 						"quantity": 1,
 						"weight": 0,
 						"attributes": {}
 					},
-					"sort": 700000
+					"sort": 700000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "55AtqIMUTt5uER3Z",
-					"flags": {},
-					"name": "Esbirro muy mezquino",
+					"name": "Very mean sidekick",
 					"type": "item",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": "",
 						"quantity": 1,
 						"weight": 0,
 						"attributes": {}
 					},
-					"sort": 800000
+					"sort": 800000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "bP89oaMSNTuMQdt5",
-					"flags": {},
-					"name": "Puñetazo",
+					"name": "Punch",
 					"type": "weapon",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
 							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
@@ -2552,16 +2992,17 @@
 							"mdrn": "6$"
 						}
 					},
-					"sort": 100001
+					"sort": 100001,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "GpHiBjo9O4FrPzdl",
-					"flags": {},
-					"name": "Escopeta",
+					"name": "Shotgun",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Armas de fuego",
+						"specialization": "Firearms",
 						"description": {
 							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
@@ -2590,14 +3031,15 @@
 						},
 						"flags": {}
 					},
-					"sort": 6400000
+					"sort": 6400000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "DqmtcxhedeGwNdPb",
-					"flags": {},
-					"name": "Esquivar",
+					"name": "Dodge",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -2626,16 +3068,17 @@
 						},
 						"flags": {}
 					},
-					"sort": 2200000
+					"sort": 2200000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "EUUoTqgF104Htwp5",
-					"flags": {},
-					"name": "Pelea",
+					"name": "Brawl",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
-						"specialization": "Combatir",
+						"specialization": "Fighting",
 						"description": {
 							"value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
 							"opposingDifficulty": "",
@@ -2664,14 +3107,15 @@
 						},
 						"flags": {}
 					},
-					"sort": 1100000
+					"sort": 1100000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "odgm7NgwjcrVBoRZ",
-					"flags": {},
-					"name": "Lengua propia",
+					"name": "Language (Own)",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -2700,14 +3144,15 @@
 						},
 						"flags": {}
 					},
-					"sort": 4000000
+					"sort": 4000000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "Cgn0EMY6vNZ9iVHW",
-					"flags": {},
-					"name": "Ladrar órdenes",
+					"name": "Bark orders",
 					"type": "skill",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"specialization": "",
 						"description": {
@@ -2729,14 +3174,15 @@
 						"eras": {},
 						"flags": {}
 					},
-					"sort": 6500000
+					"sort": 6500000,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				},
 				{
 					"_id": "SZhoTtcwS9wOPXBU",
-					"flags": {},
-					"name": "Mi arma de prueba",
+					"name": "My test weapon",
 					"type": "weapon",
-					"img": "icons/svg/mystery-man.svg",
 					"data": {
 						"description": {
 							"value": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>",
@@ -2807,7 +3253,10 @@
 							"mdrn": "6$"
 						}
 					},
-					"sort": 100001
+					"sort": 100001,
+					"flags": {},
+					"img": "icons/svg/mystery-man.svg",
+					"effects": []
 				}
 			]
 		}
