@@ -4,422 +4,422 @@
 		{
 			"id": "Accounting",
 			"name": "Contabilità",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Acting",
 			"name": "Recitazione",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Animal Handling",
-			"name": "Animal Handling",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Gestione Animali",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Anthropology",
-			"name": "Anthropology",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Antropologia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Appraise",
-			"name": "Appraise",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Valutare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Archaeology",
-			"name": "Archaeology",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Archeologia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Art/Craft (Any)",
-			"name": "Art/Craft (Any)",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Arti e Mestieri (Generico)",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Artillery",
-			"name": "Artillery",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Artiglieria",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Astronomy",
-			"name": "Astronomy",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Astronomia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Axe",
-			"name": "Axe",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Ascia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Biology",
-			"name": "Biology",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Biologia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Botany",
-			"name": "Botany",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Botanica",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Bow",
-			"name": "Bow",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Arco",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Brawl",
-			"name": "Brawl",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Mischia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Chainsaw",
-			"name": "Chainsaw",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Motosega",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Charm",
-			"name": "Charm",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Fascino",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Chemistry",
-			"name": "Chemistry",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Chimica",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Climb",
-			"name": "Climb",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Scalare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Computer Use",
-			"name": "Computer Use",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Informatica",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Credit Rating",
-			"name": "Credit Rating",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Valore di Credito",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Cryptography",
-			"name": "Cryptography",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Crittografia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Cthulhu Mythos",
-			"name": "Cthulhu Mythos",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Miti di Cthulhu",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Demolitions",
-			"name": "Demolitions",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Demolizioni",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Disguise",
-			"name": "Disguise",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Camuffare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Diving",
-			"name": "Diving",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Immersione",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Dodge",
-			"name": "Dodge",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Schivare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Drive Auto",
-			"name": "Drive Auto",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Guida Auto",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Electrical Repair",
-			"name": "Electrical Repair",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Riparazioni Elettriche",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Electronics",
-			"name": "Electronics",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Elettronica",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Fast Talk",
-			"name": "Fast Talk",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Raggirare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Fine Art",
-			"name": "Fine Art",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Belle Arti",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "First Aid",
-			"name": "First Aid",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Primo Soccorso",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Flail",
-			"name": "Flail",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Flagello",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Flamethrower",
-			"name": "Flamethrower",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Lanciafiamme",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Forensics",
-			"name": "Forensics",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Forense",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Forgery",
-			"name": "Forgery",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Falsificare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Garrote",
-			"name": "Garrote",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Garrota",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Geology",
-			"name": "Geology",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Geologia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Handgun",
-			"name": "Handgun",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Pistola",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Heavy Weapons",
-			"name": "Heavy Weapons",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Armi Pesanti",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "History",
-			"name": "History",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Storia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Hypnosis",
-			"name": "Hypnosis",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Ipnosi",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Intimidate",
-			"name": "Intimidate",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Intimidire",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Jump",
-			"name": "Jump",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Saltare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Language (Any)",
-			"name": "Language (Any)",
+			"name": "Lingua (Generico)",
 			"description": ""
 		},
 		{
 			"id": "Language (Other)",
-			"name": "Language (Other)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">See the Call of Cthulhu - 7th Ed Core Rulebook</span></p>"
+			"name": "Lingua (Altro)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		{
 			"id": "Language (Own)",
-			"name": "Language (Own)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">See the Call of Cthulhu - 7th Ed Core Rulebook</span></p>"
+			"name": "Lingua (Propria)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		{
 			"id": "Law",
-			"name": "Law",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Legge",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Library Use",
-			"name": "Library Use",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Biblioteconomia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Listen",
-			"name": "Listen",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Ascoltare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Locksmith",
-			"name": "Locksmith",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Scassinare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Machine Gun",
-			"name": "Machine Gun",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Mitragliatrice Pesante",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Mathematics",
-			"name": "Mathematics",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Matematica",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Mechanical Repair",
-			"name": "Mechanical Repair",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Riparazioni Meccaniche",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Medicine",
-			"name": "Medicine",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Medicina",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Meteorology",
-			"name": "Meteorology",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Meteorologia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Natural World",
-			"name": "Natural World",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Naturalistica",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Navigate",
-			"name": "Navigate",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Navigare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Occult",
-			"name": "Occult",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Occultismo",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Operate Heavy Machinery",
-			"name": "Operate Heavy Machinery",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Operare Macchinario Pesante",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Persuade",
-			"name": "Persuade",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Persuadere",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Pharmacy",
-			"name": "Pharmacy",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Farmacia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Photography",
-			"name": "Photography",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Fotografia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Physics",
-			"name": "Physics",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Fisica",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Pilot (Any)",
-			"name": "Pilot (Any)",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Pilotare (Generico)",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Psychoanalysis",
-			"name": "Psychoanalysis",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Psicanalisi",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Psychology",
-			"name": "Psychology",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Psicologia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Read Lips",
-			"name": "Read Lips",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Leggere Labbra",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Ride",
-			"name": "Ride",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Cavalcare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Rifle/Shotgun",
-			"name": "Rifle/Shotgun",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Fucile/Fucile a Pompa",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Science (Any)",
-			"name": "Science (Any)",
+			"name": "Scienza (Generico)",
 			"description": "<p><span style=\"color: #191813; font-size: 13px;\">See the Call of Cthulhu - 7th Ed Core Rulebook</span></p>"
 		},
 		{
 			"id": "Sleight of Hand",
-			"name": "Sleight of Hand",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Rapidità di Mano",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Spear",
-			"name": "Spear",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Lancia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Spot Hidden",
-			"name": "Spot Hidden",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Individuare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Stealth",
-			"name": "Stealth",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Furtività",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Submachine Gun",
-			"name": "Submachine Gun",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Mitragliatrice",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Survival (Any)",
-			"name": "Survival (Any)",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Sopravvivenza (Generico)",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Swim",
-			"name": "Swim",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Nuotare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Sword",
-			"name": "Sword",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Spada",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Throw",
-			"name": "Throw",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Lanciare",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Track",
-			"name": "Track",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Seguire Tracce",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Track (Any)",
-			"name": "Track (Any)",
+			"name": "Seguire Tracce (Generico)",
 			"description": ""
 		},
 		{
 			"id": "Whip",
-			"name": "Whip",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Frusta",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Zoology",
-			"name": "Zoology",
-			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
+			"name": "Zoologia",
+			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
 		}
 	]
 }
