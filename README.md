@@ -8,22 +8,22 @@
 
 ## Installation - Installazione 
 * Install/Update _Call of Cthulhu 7th edition_ system, by HavlockV, from Foundry's system manager.
-[Module Url]
+[https://foundryvtt.com/packages/CoC7]
 * Install/Update _Babele_ module from Foundry's module manager.
-[Module Url]
+[https://foundryvtt.com/packages/babele]
 * (Optional) Install/Update _Translation: Italian \[Core]_ module from Foundry's module manager.
-[Module Url]
+[https://foundryvtt.com/packages/translation-core-it]
 * Install/Update _Translation: Italian (Call of Cthulhu 7e)_ module from Foundry's module manager.
 [Module Url]
 * Inside the Game World, at _Configuration/Manage Modules_, activate Babele and *both* translations.
 * At _Configuration/Setup_, change language to Spanish.
 ---- 
 * Installa/Aggiorna il sistema _Call of Cthulhu 7th edition_ di HavlockV dal system manager di Foundry.
-[Module Url]
+[https://foundryvtt.com/packages/CoC7]
 * Installa/Aggiorna il modulo _Babele_ dal gestore moduli di Foundry.
-[Module Url]
+[https://foundryvtt.com/packages/babele]
 * (Opzionale) Installa/Aggiorna il modulo _Translation: Italian \[Core]_ dal gestore moduli di Foundry.
-[Module Url]
+[https://foundryvtt.com/packages/translation-core-it]
 * Installa/Aggiorna il modulo _Translation: Italian (Call of Cthulhu 7th)_ dal gestore moduli di Foundry.
 [Module Url]
 * Nel mondo di gioco, nella schermata _Impostazioni di Gioco/Gestisci Moduli_, attiva Babele e _entrambe_ le traduzioni.
