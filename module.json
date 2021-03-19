@@ -2,7 +2,7 @@
   "name": "call-of-cthulhu-7th-babele-it",
   "title": "Call of Cthulhu 7th Babele Italian",
   "description": "Traducción de la implementación de Call of Cthulhu 7th de HavlockV/CoC7-FoundryVTT al español mediante babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) spanish translation using Babele",
-  "version": "0.54.1",
+  "version": "0.54.2",
   "minimumCoreVersion" : "0.7.0",
   "compatibleCoreVersion":"0.7.9",
   "author": "@AllNewLaureato#5656",
