@@ -1,111 +1,48 @@
-# La Llamada de Cthulhu 7a para FoundryVTT
-A repository for the Italian translation of the Call of Cthulhu game system on Foundry VTT, developed and maintained by HavlockV.
+# Il Richiamo di Cthulhu 7e per FoundryVTT
 
-## Description - Descripción  
+## Description - Descrizione
 
-* Spanish translation of HavlockV's Call of Cthulhu 7th module for Foundry VTT.
-----
-* Traducción al español del módulo de La Llamada de Cthulhu 7a creado por HavlockV para Foundry VTT.
+* Italian translation for the Call of Cthulhu game system on Foundry VTT, developed and maintained by HavlockV.
+---- 
+* Traduzione italiana del sistema di HavlockV per Call of Cthulhu 7e su Foundry VTT.
 
-## Installation - Instalación  
-
+## Installation - Installazione 
 * Install/Update _Call of Cthulhu 7th edition_ system, by HavlockV, from Foundry's system manager.
-[Module Url](https://foundryvtt.com/packages/CoC7/)
+[Module Url]
 * Install/Update _Babele_ module from Foundry's module manager.
-[Module Url](https://foundryvtt.com/packages/babele/)
-* (Optional) Install/Update _Translation: Spanish [Core]_ module from Foundry's module manager:
-[Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
-* Install/Update _Translation: Spanish (Call of Cthulhu 7th)_ module from Foundry's module manager:
-[Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-es/)
-* Inside the Game World, at _Configuration/Manage Modules_ activate Babele y both translations.
-* At _Configuration/Setup_ change language to Spanish.
-----
-* Instale/Actualice el sistema _Call of Cthulhu 7th edition_, de HavlockV, desde el gestor de sistemas de Foundry.
-[Module Url](https://foundryvtt.com/packages/CoC7/)
-* Instale/Actualice el módulo _Babele_ desde el gestor de módulos de Foundry.
-[Module Url](https://foundryvtt.com/packages/babele/)
-* (Opcional) Instale/Actualice el módulo _Translation: Spanish [Core]_ desde el gestor de módulos de Foundry:
-[Module Url](https://foundryvtt.com/packages/FoundryVTT-ES/)
-* Instale/Actualice el módulo _Translation: Spanish (Call of Cthulhu 7th)_ desde el gestor de módulos de Foundry:
-[Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-es/)
-* Entre en el Mundo de Juego, _Configuración/Administrar Módulos_ active Babele y las dos traducciones.
-* En _Configuración/Configurar Ajustes_ cambie el idioma a Spanish.
+[Module Url]
+* (Optional) Install/Update _Translation: Italian \[Core]_ module from Foundry's module manager.
+[Module Url]
+* Install/Update _Translation: Italian (Call of Cthulhu 7e)_ module from Foundry's module manager.
+[Module Url]
+* Inside the Game World, at _Configuration/Manage Modules_, activate Babele and *both* translations.
+* At _Configuration/Setup_, change language to Spanish.
+---- 
+* Installa/Aggiorna il sistema _Call of Cthulhu 7th edition_ di HavlockV dal system manager di Foundry.
+[Module Url]
+* Installa/Aggiorna il modulo _Babele_ dal gestore moduli di Foundry.
+[Module Url]
+* (Opzionale) Installa/Aggiorna il modulo _Translation: Italian \[Core]_ dal gestore moduli di Foundry.
+[Module Url]
+* Installa/Aggiorna il modulo _Translation: Italian (Call of Cthulhu 7th)_ dal gestore moduli di Foundry.
+[Module Url]
+* Nel mondo di gioco, nella schermata _Impostazioni di Gioco/Gestisci Moduli_, attiva Babele e _entrambe_ le traduzioni.
+* In _Impostazioni di Gioco/Impostazioni_, cambia la lingua in Italiano.
 
-## Notificación de errores - Feedback  
+## Suggerimenti, Errori e Feedback 
+* This translation is fan-made and not official. Any suggestion or feedback is greatly appreciated. Please use the issue system.
+---- 
+* Questa traduzione proviene dalla community e non è ufficiale. Qualunque suggerimento o feedback è enormemente apprezzato. Per favore utilizzare il sistema di notifiche qui su GitHub, “issues”.
 
-* Please any suggestion or feedback is greatly appreciated. Use the issue system.
-----
-* Cualquier sugerencia o comentario es bienvenido. Usad el sistema de notificación de errores de github.
+## Riconoscimenti 
+* La traduzione è opera di *Antonino Lupo/Anthony L. Wolf* (Mr. Wolf).
+* Si ringrazia *José E. Lozano* (Viriato139ac) per l’incredibile supporto su GitHub.
+* Come template è stata utilizzata la traduzione di *Dungeon World* di *patoarayas* e la versione spagnola di Call of Cthulhu 7e di _Viriato139ac_.
+* *Babele* è un modulo di *Simone Ricciardi*.
 
-## Créditos  
+## Versioni
 
-* La traducción es obra de *José E. Lozano* (Viriato139ac) y *Gerbek*.
-* Se ha usado como plantilla la traducción de *Dungeon World* de *patoarayas*.
-* *Babele* es un módulo de *Simone Ricciardi*.
+version 0.5.4.2 :
 
-## Versiones
-
-version 0.5.4 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.5.4
-
-version 0.5.3 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.5.3
-
-version 0.5.2 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.5.2 (version 0.5.0 and 0.5.1 were quickly substituted by 0.5.2)
-
-version 0.4.9 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.4.9 (version 0.4.8 was skipped)
-
-version 0.4.7 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.4.7
-
-version 0.4.6 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.4.6 (version 0.4.5 was skipped)
-
-version 0.4.4 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.4.4
-
-version 0.4.2 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.4.2
-
-version 0.4.1 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.4.1
-
-version 0.3.9 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.3.9
-
-version 0.3.8 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.3.8
-
-version 0.3.7 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.3.7
-
-version 0.3.6 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.3.6
-
-version 0.3 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.3.4
-
-version 0.2 :
-
-* Updated to HavlockV/CoC7-FoundryVTT 0.3.3
-
-version 0.1 :
-
-* First working version.
-* Translated from HavlockV/CoC7-FoundryVTT 0.3.2 
+* Prima versione funzionante.
+* Tradotta da HavlockV/CoC7-FoundryVTT 0.5.4.
