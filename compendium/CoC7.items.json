@@ -1,34 +1,34 @@
 {
-	"label": "Items Examples",
+	"label": "Esempi Oggetti",
 	"entries": [
 		{
 			"id": "1920's Setup Example",
-			"name": "1920's Setup Example",
-			"description": "<p>Default setup for 1920's character.</p>\n<p>&nbsp;</p>"
+			"name": "Esempio Setup Anni Venti",
+			"description": "<p>Configurazione standard per un personaggio degli Anni Venti.</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Archetype Example",
-			"name": "Archetype Example",
+			"name": "Esempio Archetipo",
 			"description": null
 		},
 		{
 			"id": "Death ray (prototype)",
-			"name": "Death ray (prototype)",
+			"name": "Raggio di Morte (Prototipo)",
 			"description": ""
 		},
 		{
 			"id": "Experimental weapon",
-			"name": "Experimental weapon",
-			"description": "<p>Description of the weapon</p>\n<p>selecting 'Area of effect' will enable 3 different damage and range</p>\n<p>selecting 'Full-auto' will allow 2 different skilss to be selected for the weapon</p>\n<p>selecting 'Special' will activate the special input field</p>\n<p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p>\n<p>Edit the weapon and select the correct skill.</p>"
+			"name": "Arma Sperimentale",
+			"description": "<p>Descrizione dell'Arma</p>\n<p>Selezionare 'Area di Effetto' attiverà 3 diversi tipi di danno e portata</p>\n<p>Selezionare 'Automatica' permetterà di selezionare 2 diverse skill per l'arma</p>\n<p>Selezionare 'Speciale' attiverà il campo di testo speciale</p>\n<p>Nella scheda di combattimento, se le icone hanno uno sfondo rosso, significa non è stata selezionata alcuna abilità per quell'arma</p>\n<p>Modifica l'arma e seleziona l'abilità corretta.</p>"
 		},
 		{
 			"id": "Occupation Example",
-			"name": "Occupation Example",
+			"name": "Esempio Professione",
 			"description": null
 		},
 		{
 			"id": "Punch",
-			"name": "Punch",
+			"name": "Pugno",
 			"description": ""
 		}
 	]

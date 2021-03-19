@@ -1,225 +1,225 @@
 {
-	"label": "Skills",
+	"label": "Abilità",
 	"entries": [
 		{
 			"id": "Accounting",
-			"name": "Accounting",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Contabilità",
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Acting",
-			"name": "Acting",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"name": "Recitazione",
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Animal Handling",
 			"name": "Animal Handling",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Anthropology",
 			"name": "Anthropology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Appraise",
 			"name": "Appraise",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Archaeology",
 			"name": "Archaeology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Art/Craft (Any)",
 			"name": "Art/Craft (Any)",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Artillery",
 			"name": "Artillery",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Astronomy",
 			"name": "Astronomy",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Axe",
 			"name": "Axe",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Biology",
 			"name": "Biology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Botany",
 			"name": "Botany",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Bow",
 			"name": "Bow",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Brawl",
 			"name": "Brawl",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Chainsaw",
 			"name": "Chainsaw",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Charm",
 			"name": "Charm",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Chemistry",
 			"name": "Chemistry",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Climb",
 			"name": "Climb",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Computer Use",
 			"name": "Computer Use",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Credit Rating",
 			"name": "Credit Rating",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Cryptography",
 			"name": "Cryptography",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Cthulhu Mythos",
 			"name": "Cthulhu Mythos",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Demolitions",
 			"name": "Demolitions",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Disguise",
 			"name": "Disguise",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Diving",
 			"name": "Diving",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Dodge",
 			"name": "Dodge",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Drive Auto",
 			"name": "Drive Auto",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Electrical Repair",
 			"name": "Electrical Repair",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Electronics",
 			"name": "Electronics",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Fast Talk",
 			"name": "Fast Talk",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Fine Art",
 			"name": "Fine Art",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "First Aid",
 			"name": "First Aid",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Flail",
 			"name": "Flail",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Flamethrower",
 			"name": "Flamethrower",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Forensics",
 			"name": "Forensics",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Forgery",
 			"name": "Forgery",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Garrote",
 			"name": "Garrote",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Geology",
 			"name": "Geology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Handgun",
 			"name": "Handgun",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Heavy Weapons",
 			"name": "Heavy Weapons",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "History",
 			"name": "History",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Hypnosis",
 			"name": "Hypnosis",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Intimidate",
 			"name": "Intimidate",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Jump",
 			"name": "Jump",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Language (Any)",
@@ -239,117 +239,117 @@
 		{
 			"id": "Law",
 			"name": "Law",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Library Use",
 			"name": "Library Use",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Listen",
 			"name": "Listen",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Locksmith",
 			"name": "Locksmith",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Machine Gun",
 			"name": "Machine Gun",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Mathematics",
 			"name": "Mathematics",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Mechanical Repair",
 			"name": "Mechanical Repair",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Medicine",
 			"name": "Medicine",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Meteorology",
 			"name": "Meteorology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Natural World",
 			"name": "Natural World",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Navigate",
 			"name": "Navigate",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Occult",
 			"name": "Occult",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Operate Heavy Machinery",
 			"name": "Operate Heavy Machinery",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Persuade",
 			"name": "Persuade",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Pharmacy",
 			"name": "Pharmacy",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Photography",
 			"name": "Photography",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Physics",
 			"name": "Physics",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Pilot (Any)",
 			"name": "Pilot (Any)",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Psychoanalysis",
 			"name": "Psychoanalysis",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Psychology",
 			"name": "Psychology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Read Lips",
 			"name": "Read Lips",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Ride",
 			"name": "Ride",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Rifle/Shotgun",
 			"name": "Rifle/Shotgun",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Science (Any)",
@@ -359,52 +359,52 @@
 		{
 			"id": "Sleight of Hand",
 			"name": "Sleight of Hand",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Spear",
 			"name": "Spear",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Spot Hidden",
 			"name": "Spot Hidden",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Stealth",
 			"name": "Stealth",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Submachine Gun",
 			"name": "Submachine Gun",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Survival (Any)",
 			"name": "Survival (Any)",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Swim",
 			"name": "Swim",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Sword",
 			"name": "Sword",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Throw",
 			"name": "Throw",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Track",
 			"name": "Track",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Track (Any)",
@@ -414,12 +414,12 @@
 		{
 			"id": "Whip",
 			"name": "Whip",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		},
 		{
 			"id": "Zoology",
 			"name": "Zoology",
-			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+			"description": "<p>Consultare il manuale per il Richiamo di Cthulhu 7e.</p>"
 		}
 	]
 }
