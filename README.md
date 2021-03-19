@@ -42,7 +42,7 @@
 
 ## Versioni
 
-version 0.5.4.2 :
+version 0.6.0 :
 
 * Prima versione funzionante.
 * Tradotta da HavlockV/CoC7-FoundryVTT 0.5.4.
