@@ -2,32 +2,32 @@
 	"label": "Esempi Oggetti",
 	"entries": [
 		{
-			"id": "1920's Setup Example",
+			"id": "Esempio Setup Anni Venti",
 			"name": "Esempio Setup Anni Venti",
 			"description": "<p>Configurazione standard per un personaggio degli Anni Venti.</p>\n<p>&nbsp;</p>"
 		},
 		{
-			"id": "Archetype Example",
+			"id": "Esempio Archetipo",
 			"name": "Esempio Archetipo",
 			"description": null
 		},
 		{
-			"id": "Death ray (prototype)",
+			"id": "Raggio di Morte (Prototipo)",
 			"name": "Raggio di Morte (Prototipo)",
 			"description": ""
 		},
 		{
-			"id": "Experimental weapon",
+			"id": "Arma Sperimentale",
 			"name": "Arma Sperimentale",
 			"description": "<p>Descrizione dell'Arma</p>\n<p>Selezionare 'Area di Effetto' attiverà 3 diversi tipi di danno e portata</p>\n<p>Selezionare 'Automatica' permetterà di selezionare 2 diverse skill per l'arma</p>\n<p>Selezionare 'Speciale' attiverà il campo di testo speciale</p>\n<p>Nella scheda di combattimento, se le icone hanno uno sfondo rosso, significa non è stata selezionata alcuna abilità per quell'arma</p>\n<p>Modifica l'arma e seleziona l'abilità corretta.</p>"
 		},
 		{
-			"id": "Occupation Example",
+			"id": "Esempio Professione",
 			"name": "Esempio Professione",
 			"description": null
 		},
 		{
-			"id": "Punch",
+			"id": "Pugno",
 			"name": "Pugno",
 			"description": ""
 		}
