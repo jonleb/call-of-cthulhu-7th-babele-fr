@@ -2,7 +2,7 @@
 
 ## Description - Descrizione
 
-* Italian translation for the Call of Cthulhu game system on Foundry VTT, developed and maintained by HavlockV.
+* Italian translation for the Call of Cthulhu game system on Foundry VTT (system author: HavlockV)
 ---- 
 * Traduzione italiana del sistema di HavlockV per Call of Cthulhu 7e su Foundry VTT.
 
