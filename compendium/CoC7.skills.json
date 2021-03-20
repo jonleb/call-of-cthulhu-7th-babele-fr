@@ -420,6 +420,42 @@
 			"id": "Zoology",
 			"name": "Zoologia",
 			"description": "<p>Consultare il manuale ufficiale Chaosium per il Richiamo di Cthulhu 7e.</p>"
+		},
+
+		{
+			"id": "Bark orders",
+			"name": "Abbaia ordini",
+			"description": "<p>Abilità di esempio</p>"
+		},
+		{
+			"id": "Be a pain",
+			"name": "Rompi le scatole",
+			"description": "<p>Abilità di esempio</p>"
+		},
+		{
+			"id": "Receive orders",
+			"name": "Ricevi ordini",
+			"description": "<p>Abilità di esempio</p>"
+		},
+		{
+			"id": "Slice PCs in small cubes",
+			"name": "Affetta i giocatori in piccoli cubetti",
+			"description": "<p>Abilità di esempio</p>"
+		},
+		{
+			"id": "Takeover the world",
+			"name": "Conquista il mondo",
+			"description": "<p>Abilità di esempio</p>"
+		},
+		{
+			"id": "Torment the PC",
+			"name": "Tormenta il giocatore",
+			"description": "<p>Abilità di esempio</p>"
+		},
+		{
+			"id": "Try hard",
+			"name": "Prova per davvero",
+			"description": "<p>Abilità di esempio</p>"
 		}
 	]
 }

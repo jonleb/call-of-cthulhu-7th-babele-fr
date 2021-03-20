@@ -2066,7 +2066,7 @@
 			"items": [
 				{
 					"_id": "dLLdlRaQmkE9QYUJ",
-					"name": "Affetta i giocatori in piccoli cubi",
+					"name": "Affetta i giocatori in piccoli cubetti",
 					"type": "skill",
 					"data": {
 						"specialization": "",
@@ -3180,7 +3180,7 @@
 					"effects": []
 				},
 				{
-					"_id": "My test weapon",
+					"_id": "SZhoTtcwS9wOPXBU",
 					"name": "La mia arma di prova",
 					"type": "weapon",
 					"data": {
