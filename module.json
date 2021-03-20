@@ -2,7 +2,7 @@
   "name": "call-of-cthulhu-7th-babele-it",
   "title": "Call of Cthulhu 7th Babele (Italian)",
   "description": "Traduzione del sistema di gioco di Call of Cthulhu 7e di HavlockV/CoC7-FoundryVTT in Italiano tramite Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) Italian translation using Babele",
-  "version": "0.55.9",
+  "version": "0.55.9.1",
   "minimumCoreVersion" : "0.7.0",
   "compatibleCoreVersion":"0.7.9",
   "author": "Anthony L. Wolf (Mr. Wolf)",
