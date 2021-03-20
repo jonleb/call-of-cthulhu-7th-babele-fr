@@ -1351,7 +1351,7 @@
 					"name": "Generico",
 					"type": "skill",
 					"data": {
-						"specialization": "Pilotare",
+						"specialization": "Pilot",
 						"description": {
 							"value": "<p>Consultare il manuale ufficiale Chaosium sul Richiamo di Cthulhu 7e.</p>",
 							"opposingDifficulty": "",
@@ -2796,7 +2796,7 @@
 		},
 		{
 			"id": "Vilain example",
-			"name": "Esempio Cattivone",
+			"name": "Vilain example",
 			"items": [
 				{
 					"_id": "MLzJUjOk8pGvbark",
