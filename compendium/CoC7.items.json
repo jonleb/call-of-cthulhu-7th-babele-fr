@@ -60,17 +60,6 @@
 			"id": "Pile of junk",
 			"name": "Pila di spazzatura",
 			"description": ""
-		},
-
-		{
-			"_id": "My test weapon",
-			"name": "La mia arma di prova",
-			"type": "weapon"
-		},
-		{
-			"_id": "Club",
-			"name": "Mazza",
-			"type": "weapon"
 		}
 	]
 }
