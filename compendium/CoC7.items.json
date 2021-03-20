@@ -31,10 +31,46 @@
 			"name": "Pugno",
 			"description": ""
 		},
+
 		{
 			"id": "Plan to enslave humanity",
 			"name": "Piano per schiavizzare l'umanità",
 			"description": ""
+		
+		},
+		{
+			"id": "Very mean sidekick",
+			"name": "Spalla molto cattiva",
+			"description": ""
+		
+		},
+		{
+			"id": "Orders",
+			"name": "Ordini",
+			"description": ""
+		
+		},
+		{
+			"id": "Secret documents",
+			"name": "Documenti segreti",
+			"description": ""
+		
+		},
+		{
+			"id": "Pile of junk",
+			"name": "Pila di spazzatura",
+			"description": ""
+		},
+
+		{
+			"_id": "My test weapon",
+			"name": "La mia arma di prova",
+			"type": "weapon"
+		},
+		{
+			"_id": "Club",
+			"name": "Mazza",
+			"type": "weapon"
 		}
 	]
 }
