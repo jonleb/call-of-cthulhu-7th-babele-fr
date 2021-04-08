@@ -1,11 +1,11 @@
 {
   "name": "call-of-cthulhu-7th-babele-it",
   "title": "Call of Cthulhu 7th Babele (Italian)",
-  "description": "Traduzione del sistema di gioco di Call of Cthulhu 7e di HavlockV/CoC7-FoundryVTT in Italiano tramite Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) Italian translation using Babele",
-  "version": "0.6.0",
+  "description": "Traduction du système de Call of Cthulhu 7e di HavlockV/CoC7-FoundryVTT in Frenchtramite Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) French translation using Babele",
+  "version": "0.0.1",
   "minimumCoreVersion" : "0.7.0",
   "compatibleCoreVersion":"0.7.9",
-  "author": "Anthony L. Wolf (Mr. Wolf)",
+  "author": "Jonathan Lebrun based on work done by Anthony L. Wolf (Mr. Wolf)",
   "esmodules": ["babele-register.js"],
   "scripts": [],
   "styles": [],
@@ -24,14 +24,14 @@
   "packs": [],
   "languages": [
     {
-      "lang": "it",
-      "name": "Italiano",
-      "path": "lang/it.json"
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
     }
   ],
   "system": "CoC7",
   "systemVersion": "0.5.4",
-  "url": "https://github.com/AnthonyLWolf/call-of-cthulhu-7th-babele-it",
-  "manifest": "https://raw.githubusercontent.com/AnthonyLWolf/call-of-cthulhu-7th-babele-it/master/module.json",
-  "download": "https://github.com/AnthonyLWolf/call-of-cthulhu-7th-babele-it/archive/master.zip"
+  "url": "https://github.com/jonleb/call-of-cthulhu-7th-babele-fr",
+  "manifest": "https://raw.githubusercontent.com/jonleb/call-of-cthulhu-7th-babele-de/master/module.json",
+  "download": "https://github.com/jonleb/call-of-cthulhu-7th-babele-fr/archive/master.zip"
 }
