@@ -8,7 +8,7 @@ Hooks.once('init', () => {
 			dir: 'compendium'
 		});
 		
-		document.getElementById("logo").src="/modules/call-of-cthulhu-7th-babele-fr/img/fvtt-anvil-fr.png";
+		document.getElementById("logo").src="/modules/call-of-cthulhu-7th-babele-fr/img/fvtt-anvil-it.png";
 		
 	}
 });
